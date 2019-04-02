@@ -11,7 +11,11 @@ public class TumbleLockScript : MonoBehaviour {
     public Tumbler Tumbler0, Tumbler1, Tumbler2;
 
 
-    private bool Locked = true; 
+    private bool Locked = true;
+
+
+    public GameObject Chest;
+    public GameObject Lock;
     
     // Start is called before the first frame update
     void Start()
@@ -27,6 +31,7 @@ public class TumbleLockScript : MonoBehaviour {
 
             if (Tumbler0.CurrentValue == Code0 && Tumbler1.CurrentValue == Code1 && Tumbler2.CurrentValue == Code2) {
 
+               // if (Manager.has
 
                 Unlock();
                 
@@ -109,6 +114,12 @@ public class TumbleLockScript : MonoBehaviour {
         Locked = false;
         
         Debug.Log("Unlocked with code: " + Code0 + Code1 + Code2);
+
+
+        Manager.hasKey = true; 
+        
+        Chest.SetActive(true);
+       Lock.SetActive(false);
         
 
     }
