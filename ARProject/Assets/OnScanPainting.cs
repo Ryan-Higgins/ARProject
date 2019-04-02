@@ -42,7 +42,7 @@ public class OnScanPainting : MonoBehaviour,
         {
             if(!open){
                 painting.SetActive(true);
-                painting.GetComponent<ScaleUp>().SetCurrentPos(transform.position.x, transform.position.y);
+                painting.GetComponent<ScaleUp>().SetCurrentPos(transform.position.x, transform.position.y, transform.position.z);
                 open = true;
             }
         }

@@ -14,7 +14,7 @@ public class CutFrame : MonoBehaviour
 
     public LayerMask mask;
 
-    Animator anim;
+    public Animator anim;
 
     bool done;
 
@@ -26,7 +26,6 @@ public class CutFrame : MonoBehaviour
         trail.startWidth = 0.05f;
         trail.endWidth = 0.05f;
         done = false;
-        anim = GetComponent<Animator>();
     }
 
     private void Update()
@@ -65,9 +64,10 @@ public class CutFrame : MonoBehaviour
                             }
                         }
 
-                        if(num == 4){
+                        if(num == corners.Length){
                             done = true;
                             anim.SetTrigger("Cut");
+                            trail.positionCount = 0;
                         }
                     }
                 }else{

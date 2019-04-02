@@ -28,8 +28,7 @@ public class ScaleUp : MonoBehaviour
         }
     }
 
-    public void SetCurrentPos(float x, float y){
-        print(x + "" + y);
-        transform.position = new Vector3(x, y, targetpos.z);
+    public void SetCurrentPos(float x, float y, float z){
+        transform.position = new Vector3(x, y, z);
     }
 }
