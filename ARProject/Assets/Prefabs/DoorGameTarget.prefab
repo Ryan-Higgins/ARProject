@@ -48,7 +48,7 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: Test2
+  mTrackableName: 4
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/ARJAM.xml
@@ -132,6 +132,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 3552084952576647289}
     m_Modifications:
+    - target: {fileID: 5648863724088935960, guid: 634166c1023183247a9bf85e1d4df4ea,
+        type: 3}
+      propertyPath: m_Name
+      value: Door
+      objectReference: {fileID: 0}
     - target: {fileID: 5648863724088935961, guid: 634166c1023183247a9bf85e1d4df4ea,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -186,11 +191,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5648863724088935960, guid: 634166c1023183247a9bf85e1d4df4ea,
-        type: 3}
-      propertyPath: m_Name
-      value: Door
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 634166c1023183247a9bf85e1d4df4ea, type: 3}
