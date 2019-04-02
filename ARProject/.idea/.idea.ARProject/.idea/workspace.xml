@@ -18,25 +18,35 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="305" />
+          <entry key="cs" value="1363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="305" />
+          <entry key="C#" value="1363" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TeethCollectScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="630">
+              <caret line="62" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="62" selection-end-column="9" />
               <folding>
-                <marker date="1554209787128" expanded="true" signature="6:78" ph="..." />
+                <marker date="1554209787128" expanded="false" signature="6:78" ph="..." />
                 <marker date="1554209787128" expanded="true" signature="128:1819" ph="{...}" />
                 <marker date="1554209787128" expanded="true" signature="269:1556" ph="{...}" />
                 <marker date="1554209787128" expanded="true" signature="301:1548" ph="{...}" />
@@ -54,18 +64,88 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/KeyLockScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+              <folding>
+                <marker date="1554213995871" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554213995871" expanded="true" signature="122:1957" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="194:215" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="338:1844" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="436:1811" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="593:1224" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="819:1129" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="884:1027" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="1272:1801" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="1412:1787" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="1534:1661" ph="{...}" />
+                <marker date="1554213995871" expanded="true" signature="1866:1953" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TumbleLockScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="771">
+              <caret line="110" column="66" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
+              <folding>
+                <marker date="1554216728847" expanded="false" signature="6:107" ph="..." />
+                <marker date="1554216728847" expanded="true" signature="155:2451" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="368:389" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="447:2303" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="475:2249" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="594:671" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="829:1576" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="1055:1481" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="1123:1379" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="1154:1213" ph="/* ActivateTeeth(); ... */" />
+                <marker date="1554216728847" expanded="true" signature="1624:2235" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="1764:2221" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="1889:2095" ph="{...}" />
+                <marker date="1554216728847" expanded="true" signature="2325:2444" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Tumbler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+              <folding>
+                <marker date="1554217382135" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554217382135" expanded="true" signature="116:1063" ph="{...}" />
+                <marker date="1554217382135" expanded="true" signature="159:602" ph="{...}" />
+                <marker date="1554217382135" expanded="true" signature="236:379" ph="{...}" />
+                <marker date="1554217382135" expanded="true" signature="635:874" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/KeyLockScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TeethCollectScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tumbler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TumbleLockScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/TeethCollectScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/KeyLockScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/TumbleLockScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tumbler.cs" />
       </list>
     </option>
   </component>
@@ -138,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554207500130</updated>
-      <workItem from="1554207504317" duration="2806000" />
+      <workItem from="1554207504317" duration="6772000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2806000" />
+    <option name="totallyTimeSpent" value="6772000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -159,7 +239,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115548454" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.115548454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="NuGet" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -205,10 +285,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/TeethCollectScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="630">
+          <caret line="62" column="9" selection-start-line="19" selection-start-column="8" selection-end-line="62" selection-end-column="9" />
           <folding>
-            <marker date="1554209787128" expanded="true" signature="6:78" ph="..." />
+            <marker date="1554209787128" expanded="false" signature="6:78" ph="..." />
             <marker date="1554209787128" expanded="true" signature="128:1819" ph="{...}" />
             <marker date="1554209787128" expanded="true" signature="269:1556" ph="{...}" />
             <marker date="1554209787128" expanded="true" signature="301:1548" ph="{...}" />
@@ -221,6 +301,64 @@
             <marker date="1554209787128" expanded="true" signature="1585:1813" ph="{...}" />
             <marker date="1554209787128" expanded="true" signature="1628:1715" ph="{...}" />
             <marker date="1554209787128" expanded="true" signature="1722:1788" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TumbleLockScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="771">
+          <caret line="110" column="66" selection-start-line="110" selection-start-column="66" selection-end-line="110" selection-end-column="66" />
+          <folding>
+            <marker date="1554216728847" expanded="false" signature="6:107" ph="..." />
+            <marker date="1554216728847" expanded="true" signature="155:2451" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="368:389" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="447:2303" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="475:2249" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="594:671" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="829:1576" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="1055:1481" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="1123:1379" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="1154:1213" ph="/* ActivateTeeth(); ... */" />
+            <marker date="1554216728847" expanded="true" signature="1624:2235" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="1764:2221" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="1889:2095" ph="{...}" />
+            <marker date="1554216728847" expanded="true" signature="2325:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KeyLockScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding>
+            <marker date="1554213995871" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554213995871" expanded="true" signature="122:1957" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="194:215" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="338:1844" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="436:1811" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="593:1224" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="819:1129" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="884:1027" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="1272:1801" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="1412:1787" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="1534:1661" ph="{...}" />
+            <marker date="1554213995871" expanded="true" signature="1866:1953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tumbler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="25" column="87" lean-forward="true" selection-start-line="25" selection-start-column="87" selection-end-line="25" selection-end-column="87" />
+          <folding>
+            <marker date="1554217382135" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554217382135" expanded="true" signature="116:1063" ph="{...}" />
+            <marker date="1554217382135" expanded="true" signature="159:602" ph="{...}" />
+            <marker date="1554217382135" expanded="true" signature="236:379" ph="{...}" />
+            <marker date="1554217382135" expanded="true" signature="635:874" ph="{...}" />
           </folding>
         </state>
       </provider>
