@@ -7,7 +7,7 @@ public class CheckCorner : MonoBehaviour
 
     public bool cut;
     // Start is called before the first frame update
-    void Start()
+    void OnEnable()
     {
         cut = false;
     }
