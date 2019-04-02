@@ -10,8 +10,8 @@ public class Manager : MonoBehaviour
     public GameObject toothButton;
     public GameObject keyButton;
 
-    private bool keySelected;
-    private bool toothSelected;
+    public static bool keySelected;
+    public static bool toothSelected;
     
     // Start is called before the first frame update
     void Start()
