@@ -41,7 +41,7 @@ public class CutFrame : MonoBehaviour
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 Debug.DrawRay(ray.origin, ray.direction * 10000f);
 
-                if (Physics.Raycast(ray, out RaycastHit hit, 10000.0f, mask) /* && Manager.toothSelected == true*/)
+                if (Physics.Raycast(ray, out RaycastHit hit, 10000.0f, mask)  && Manager.toothSelected == true)
                 {
                     cutter.transform.position = hit.point;
 
