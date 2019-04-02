@@ -12,7 +12,8 @@ public class CameraSwitch : MonoBehaviour
     void Start()
     {
         mainCamera = GameObject.Find("Main Camera");
-        
+        aRCamera.SetActive(false);
+
     }
 
     // Update is called once per frame
