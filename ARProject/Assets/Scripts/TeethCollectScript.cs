@@ -71,6 +71,8 @@ public class TeethCollectScript : MonoBehaviour {
 
         Activated = true;
 
+        Manager.hasTooth = true; 
+        
 
         try {
 
