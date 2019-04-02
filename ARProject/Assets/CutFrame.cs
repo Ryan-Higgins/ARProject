@@ -14,6 +14,10 @@ public class CutFrame : MonoBehaviour
 
     public LayerMask mask;
 
+    Animator anim;
+
+    bool done;
+
 
     private void Awake()
     {
@@ -21,12 +25,15 @@ public class CutFrame : MonoBehaviour
         trail.positionCount = 0;
         trail.startWidth = 0.05f;
         trail.endWidth = 0.05f;
-
+        done = false;
+        anim = GetComponent<Animator>();
     }
 
     private void Update()
     {
-        if(gameObject.activeSelf){
+        
+
+        if(gameObject.activeSelf && !done){
             if (Input.GetMouseButton(0))
             {
 
@@ -59,7 +66,8 @@ public class CutFrame : MonoBehaviour
                         }
 
                         if(num == 4){
-                            print("done");
+                            done = true;
+                            anim.SetTrigger("Cut");
                         }
                     }
                 }else{
