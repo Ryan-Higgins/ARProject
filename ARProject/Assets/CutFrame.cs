@@ -68,6 +68,7 @@ public class CutFrame : MonoBehaviour
                             done = true;
                             anim.SetTrigger("Cut");
                             trail.positionCount = 0;
+                            Invoke("TurnOffPainting", 2.5f);
                         }
                     }
                 }else{
@@ -83,6 +84,11 @@ public class CutFrame : MonoBehaviour
 
 
 
+    }
+
+    void TurnOffPainting(){
+        transform.parent.gameObject.SetActive(false);
+        print("off");
     }
 
 }
