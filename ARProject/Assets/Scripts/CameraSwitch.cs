@@ -7,7 +7,10 @@ public class CameraSwitch : MonoBehaviour
     private GameObject mainCamera;
     public GameObject aRCamera;
     bool switchCheck = false;
-    
+
+    bool mainSwitchCheck = true;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -24,8 +27,12 @@ public class CameraSwitch : MonoBehaviour
 
     public void SwitchCamera()
     {
-        //mainCamera.SetActive(false);
+        mainSwitchCheck = !mainSwitchCheck;
+        mainCamera.SetActive(mainSwitchCheck);
+
         switchCheck = !switchCheck;
         aRCamera.SetActive(switchCheck);
     }
+
+
 }
