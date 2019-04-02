@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4086a5b-2352-42dc-a418-7b7a34fc2d6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/ARJAM/Test2_scaled.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/ARJAM/Test2_scaled.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/ARJAM/TestTarget_scaled.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Editor/Vuforia/ImageTargetTextures/ARJAM/TestTarget_scaled.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KeyLockScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/KeyLockScript.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraSwitch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraSwitch.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TeethCollectScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TeethCollectScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TumbleLockScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TumbleLockScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tumbler.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Tumbler.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QCAR/somedata16" beforeDir="false" afterPath="$PROJECT_DIR$/QCAR/somedata16" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,17 +14,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraSwitch.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
               <folding>
-                <marker date="1554222115684" expanded="false" signature="6:78" ph="..." />
-                <marker date="1554222115684" expanded="true" signature="121:637" ph="{...}" />
-                <marker date="1554222115684" expanded="true" signature="295:396" ph="{...}" />
-                <marker date="1554222115684" expanded="true" signature="454:475" ph="{...}" />
-                <marker date="1554222115684" expanded="true" signature="507:635" ph="{...}" />
+                <marker date="1554222223473" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554222223473" expanded="true" signature="121:637" ph="{...}" />
+                <marker date="1554222223473" expanded="true" signature="295:396" ph="{...}" />
+                <marker date="1554222223473" expanded="true" signature="454:475" ph="{...}" />
+                <marker date="1554222223473" expanded="true" signature="507:635" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Manager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="526">
+              <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+              <folding>
+                <marker date="1554223479734" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554223479734" expanded="true" signature="116:933" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="405:426" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="484:659" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="510:569" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="592:653" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="685:793" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="735:787" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="821:931" ph="{...}" />
+                <marker date="1554223479734" expanded="true" signature="871:925" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,11 +58,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Manager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Manager.cs" />
       </list>
     </option>
   </component>
@@ -129,12 +136,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554210445059</updated>
       <workItem from="1554210496399" duration="589000" />
-      <workItem from="1554211484815" duration="793000" />
+      <workItem from="1554211484815" duration="1977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1382000" />
+    <option name="totallyTimeSpent" value="2566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,11 +207,30 @@
         <state relative-caret-position="180">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding>
-            <marker date="1554222115684" expanded="false" signature="6:78" ph="..." />
-            <marker date="1554222115684" expanded="true" signature="121:637" ph="{...}" />
-            <marker date="1554222115684" expanded="true" signature="295:396" ph="{...}" />
-            <marker date="1554222115684" expanded="true" signature="454:475" ph="{...}" />
-            <marker date="1554222115684" expanded="true" signature="507:635" ph="{...}" />
+            <marker date="1554222223473" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554222223473" expanded="true" signature="121:637" ph="{...}" />
+            <marker date="1554222223473" expanded="true" signature="295:396" ph="{...}" />
+            <marker date="1554222223473" expanded="true" signature="454:475" ph="{...}" />
+            <marker date="1554222223473" expanded="true" signature="507:635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <marker date="1554223479734" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554223479734" expanded="true" signature="116:933" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="405:426" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="484:659" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="510:569" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="592:653" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="685:793" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="735:787" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="821:931" ph="{...}" />
+            <marker date="1554223479734" expanded="true" signature="871:925" ph="{...}" />
           </folding>
         </state>
       </provider>
