@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Vuforia; 
+using Vuforia;
 
 public class OnScanPainting : MonoBehaviour,
                                             ITrackableEventHandler
@@ -12,6 +12,8 @@ public class OnScanPainting : MonoBehaviour,
 
     private TrackableBehaviour mTrackableBehaviour;
 
+    public static OnScanPainting instance;
+
     void Start()
     {
         mTrackableBehaviour = GetComponent<TrackableBehaviour>();
@@ -19,18 +21,24 @@ public class OnScanPainting : MonoBehaviour,
         {
             mTrackableBehaviour.RegisterTrackableEventHandler(this);
         }
+
+        instance = this;
     }
 
-    void Update(){
-        if(open){
+    void Update()
+    {
+        if (open)
+        {
             painting.SetActive(true);
-        }else{
+        }
+        else
+        {
             painting.SetActive(false);
         }
     }
 
 
-    
+
 
     public void OnTrackableStateChanged(
                                     TrackableBehaviour.Status previousStatus,
@@ -40,11 +48,16 @@ public class OnScanPainting : MonoBehaviour,
             newStatus == TrackableBehaviour.Status.TRACKED ||
             newStatus == TrackableBehaviour.Status.EXTENDED_TRACKED)
         {
-            if(!open){
+            if (!open)
+            {
                 painting.SetActive(true);
                 painting.GetComponent<ScaleUp>().SetCurrentPos(transform.position.x, transform.position.y, transform.position.z);
                 open = true;
             }
         }
+    }
+
+    public static void TurnOff(){
+        instance.open = false;
     }
 }

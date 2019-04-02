@@ -18,6 +18,8 @@ public class CutFrame : MonoBehaviour
 
     bool done;
 
+    public GameObject parent;
+
 
     private void Awake()
     {
@@ -39,7 +41,7 @@ public class CutFrame : MonoBehaviour
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 Debug.DrawRay(ray.origin, ray.direction * 10000f);
 
-                if (Physics.Raycast(ray, out RaycastHit hit, 10000.0f, mask))
+                if (Physics.Raycast(ray, out RaycastHit hit, 10000.0f, mask) /* && Manager.toothSelected == true*/)
                 {
                     cutter.transform.position = hit.point;
 
@@ -68,7 +70,7 @@ public class CutFrame : MonoBehaviour
                             done = true;
                             anim.SetTrigger("Cut");
                             trail.positionCount = 0;
-                            Invoke("TurnOffPainting", 2.5f);
+                            Invoke("TurnOffPainting", 5f);
                         }
                     }
                 }else{
@@ -87,7 +89,7 @@ public class CutFrame : MonoBehaviour
     }
 
     void TurnOffPainting(){
-        transform.parent.gameObject.SetActive(false);
+        OnScanPainting.TurnOff();
         print("off");
     }
 
