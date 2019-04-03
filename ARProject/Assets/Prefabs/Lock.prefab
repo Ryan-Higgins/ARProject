@@ -3873,12 +3873,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dd2821eddbce9b4fa3d278ede9e8745, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Code0: 6
-  Code1: 5
-  Code2: 8
+  Code0: 3
+  Code1: 2
+  Code2: 7
   Tumbler0: {fileID: 4384408981285286752}
   Tumbler1: {fileID: 7733776260925168392}
   Tumbler2: {fileID: 8567012707368533264}
+  Chest: {fileID: 0}
+  Lock: {fileID: 0}
 --- !u!1 &4384408980966642994
 GameObject:
   m_ObjectHideFlags: 0
@@ -9440,15 +9442,15 @@ PrefabInstance:
       value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c743173800fbca4419214df79f041974, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.61722
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: c743173800fbca4419214df79f041974, type: 3}
       propertyPath: m_LocalScale.y
       value: 0.61722
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c743173800fbca4419214df79f041974, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.61722
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: c743173800fbca4419214df79f041974, type: 3}
-      propertyPath: m_LocalScale.x
       value: 0.61722
       objectReference: {fileID: 0}
     m_RemovedComponents: []

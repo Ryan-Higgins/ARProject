@@ -32,15 +32,20 @@
           <entry key="C#" value="2" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TumbleLockScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="104" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="-7">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
               <folding>
                 <marker date="1554224984159" expanded="false" signature="6:107" ph="..." />
                 <marker date="1554224984159" expanded="true" signature="155:2647" ph="{...}" />
@@ -61,7 +66,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeethCollectScript.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1170">
@@ -88,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeyLockScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="605">
               <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
               <folding>
                 <marker date="1554224905856" expanded="false" signature="6:78" ph="..." />
@@ -212,7 +217,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3098000" />
+    <option name="totallyTimeSpent" value="3560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,7 +230,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11608094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -287,9 +291,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeethCollectScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+          <folding>
+            <marker date="1554225075761" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554225075761" expanded="true" signature="128:1862" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="269:1556" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="301:1548" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="458:1021" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="684:926" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="750:824" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1069:1538" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1209:1524" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1332:1398" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1585:1856" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1671:1758" ph="{...}" />
+            <marker date="1554225075761" expanded="true" signature="1765:1831" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeyLockScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="605">
           <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
           <folding>
             <marker date="1554224905856" expanded="false" signature="6:78" ph="..." />
@@ -311,8 +337,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TumbleLockScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="-7">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
           <folding>
             <marker date="1554224984159" expanded="false" signature="6:107" ph="..." />
             <marker date="1554224984159" expanded="true" signature="155:2647" ph="{...}" />
@@ -328,28 +354,6 @@
             <marker date="1554224984159" expanded="true" signature="1856:2313" ph="{...}" />
             <marker date="1554224984159" expanded="true" signature="1981:2187" ph="{...}" />
             <marker date="1554224984159" expanded="true" signature="2417:2640" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeethCollectScript.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
-          <folding>
-            <marker date="1554225075761" expanded="false" signature="6:78" ph="..." />
-            <marker date="1554225075761" expanded="true" signature="128:1862" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="269:1556" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="301:1548" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="458:1021" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="684:926" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="750:824" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1069:1538" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1209:1524" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1332:1398" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1585:1856" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1671:1758" ph="{...}" />
-            <marker date="1554225075761" expanded="true" signature="1765:1831" ph="{...}" />
           </folding>
         </state>
       </provider>
