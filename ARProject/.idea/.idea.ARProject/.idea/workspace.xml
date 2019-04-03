@@ -1,96 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4086a5b-2352-42dc-a418-7b7a34fc2d6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ARProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BillboardCanvas.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BillboardCanvas.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CheckCorner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CheckCorner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ClickInScene.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ClickInScene.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CutFrame.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CutFrame.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Idle.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Idle.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Manager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Manager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/55575987_372441120042665_8959184359345094656_n.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/55575987_372441120042665_8959184359345094656_n.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ocean.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Ocean.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnScanPainting.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnScanPainting.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting Prefab.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting Prefab.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Painting.controller.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PatrickTestScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PatrickTestScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PopulatePopUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PopulatePopUp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Remove.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Remove.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/VuforiaConfiguration.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScaleUp.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ScaleUp.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.dat.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StreamingAssets/Vuforia/ARJAM.xml.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trail Material.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trail Material.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="b4086a5b-2352-42dc-a418-7b7a34fc2d6a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="179379138">
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cs" value="109" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="C#" value="109" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="cs" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="C#" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.26" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TumbleLockScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="118" column="31" lean-forward="true" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
+            <state relative-caret-position="1320">
+              <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
               <folding>
                 <marker date="1554301400153" expanded="false" signature="6:107" ph="..." />
                 <marker date="1554301400153" expanded="true" signature="155:2647" ph="{...}" />
@@ -128,30 +52,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Manager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-              <folding>
-                <marker date="1554301419110" expanded="false" signature="6:78" ph="..." />
-                <marker date="1554301419110" expanded="true" signature="117:945" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="417:438" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="496:671" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="522:581" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="604:665" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="697:805" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="747:799" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="833:943" ph="{...}" />
-                <marker date="1554301419110" expanded="true" signature="883:937" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeethCollectScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
+            <state relative-caret-position="1065">
               <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
               <folding>
                 <marker date="1554301400148" expanded="false" signature="6:78" ph="..." />
@@ -175,22 +78,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeyLockScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-511">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="945">
+              <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
               <folding>
-                <marker date="1554301181824" expanded="false" signature="6:78" ph="..." />
-                <marker date="1554301181824" expanded="true" signature="122:2002" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="194:215" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="338:1857" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="382:1851" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="412:1839" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="581:1228" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="819:1125" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="888:1015" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="1280:1825" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="1428:1807" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="1558:1673" ph="{...}" />
-                <marker date="1554301181824" expanded="true" signature="1879:1998" ph="{...}" />
+                <marker date="1554314698496" expanded="false" signature="6:78" ph="..." />
+                <marker date="1554314698496" expanded="true" signature="122:2002" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="194:215" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="338:1857" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="382:1851" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="412:1839" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="581:1228" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="819:1125" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="888:1015" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="1280:1825" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="1428:1807" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="1558:1673" ph="{...}" />
+                <marker date="1554314698496" expanded="true" signature="1879:1998" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -224,7 +127,7 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1" />
     <option name="y" value="1" />
     <option name="width" value="1364" />
@@ -240,10 +143,10 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,7 +204,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3879000" />
+    <option name="totallyTimeSpent" value="3881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,16 +216,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1171459" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -339,7 +240,8 @@
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="bottom" id="Android Profiler" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -347,6 +249,7 @@
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Device File Explorer" order="7" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -354,9 +257,6 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -377,7 +277,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TeethCollectScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
+        <state relative-caret-position="1065">
           <caret line="73" column="33" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
           <folding>
             <marker date="1554301400148" expanded="false" signature="6:78" ph="..." />
@@ -399,49 +299,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/KeyLockScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-511">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="945">
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
           <folding>
-            <marker date="1554301181824" expanded="false" signature="6:78" ph="..." />
-            <marker date="1554301181824" expanded="true" signature="122:2002" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="194:215" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="338:1857" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="382:1851" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="412:1839" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="581:1228" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="819:1125" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="888:1015" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="1280:1825" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="1428:1807" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="1558:1673" ph="{...}" />
-            <marker date="1554301181824" expanded="true" signature="1879:1998" ph="{...}" />
+            <marker date="1554314698496" expanded="false" signature="6:78" ph="..." />
+            <marker date="1554314698496" expanded="true" signature="122:2002" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="194:215" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="338:1857" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="382:1851" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="412:1839" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="581:1228" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="819:1125" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="888:1015" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="1280:1825" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="1428:1807" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="1558:1673" ph="{...}" />
+            <marker date="1554314698496" expanded="true" signature="1879:1998" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Manager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <marker date="1554301419110" expanded="false" signature="6:78" ph="..." />
-            <marker date="1554301419110" expanded="true" signature="117:945" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="417:438" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="496:671" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="522:581" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="604:665" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="697:805" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="747:799" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="833:943" ph="{...}" />
-            <marker date="1554301419110" expanded="true" signature="883:937" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Manager.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TumbleLockScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="118" column="31" lean-forward="true" selection-start-line="118" selection-start-column="31" selection-end-line="118" selection-end-column="31" />
+        <state relative-caret-position="1320">
+          <caret line="91" column="17" selection-start-line="91" selection-start-column="17" selection-end-line="91" selection-end-column="17" />
           <folding>
             <marker date="1554301400153" expanded="false" signature="6:107" ph="..." />
             <marker date="1554301400153" expanded="true" signature="155:2647" ph="{...}" />
