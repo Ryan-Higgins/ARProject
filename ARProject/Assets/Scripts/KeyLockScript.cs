@@ -80,6 +80,10 @@ public class KeyLockScript : MonoBehaviour
 
     void Unlock() {
 
+
+
+Debug.Log("Unlocking Door");
+
         Activated = true;
 
         

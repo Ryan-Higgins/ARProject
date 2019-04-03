@@ -9,9 +9,11 @@
       <e p="Assets" t="Include">
         <e p="BillboardCanvas.cs" t="Include" />
         <e p="CheckCorner.cs" t="Include" />
+        <e p="ClickInScene.cs" t="Include" />
         <e p="CutFrame.cs" t="Include" />
         <e p="Manager.cs" t="Include" />
         <e p="OnScanPainting.cs" t="Include" />
+        <e p="PopulatePopUp.cs" t="Include" />
         <e p="ScaleUp.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="CameraSwitch.cs" t="Include" />

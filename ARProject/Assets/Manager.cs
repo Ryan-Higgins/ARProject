@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Manager : MonoBehaviour
-{
+public class Manager : MonoBehaviour {
     public static bool hasKey = false;
     public static bool hasTooth = false;
 
