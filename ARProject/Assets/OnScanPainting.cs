@@ -60,4 +60,9 @@ public class OnScanPainting : MonoBehaviour,
     public static void TurnOff(){
         instance.open = false;
     }
+
+    public void TurnOffNormal()
+    {
+        open = false;
+    }
 }
