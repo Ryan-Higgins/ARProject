@@ -41,7 +41,7 @@ public class TumbleLockScript : MonoBehaviour {
 
 
             RaycastHit hit;
-
+/*
             for (int i = 0; i < Input.touchCount; ++i)
                 if (Input.GetTouch(i).phase.Equals(TouchPhase.Began)) {
                     // Construct a ray from the current touch coordinates
@@ -69,6 +69,8 @@ public class TumbleLockScript : MonoBehaviour {
 
                     // hit.transform.gameObject.SendMessage("OnMouseDown");
                 }
+                
+                */
 
 
             if (Input.GetMouseButtonDown(0)) {
