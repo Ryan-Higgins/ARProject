@@ -71,6 +71,7 @@ public class CutFrame : MonoBehaviour
                             anim.SetTrigger("Cut");
                             trail.positionCount = 0;
                             Invoke("TurnOffPainting", 5f);
+                            Manager.toothSelected = false;
                         }
                     }
                 }else{

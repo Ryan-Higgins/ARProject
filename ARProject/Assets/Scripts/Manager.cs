@@ -11,6 +11,9 @@ public class Manager : MonoBehaviour {
 
     public static bool keySelected;
     public static bool toothSelected;
+
+    public GameObject keyPanel;
+    public GameObject toothPanel;
     
     // Start is called before the first frame update
     void Start()
@@ -24,27 +27,27 @@ public class Manager : MonoBehaviour {
         if (hasKey)
         {
             keyButton.SetActive(true);
+            keyPanel.SetActive(keySelected);
         }
 
         if (hasTooth)
         {
             toothButton.SetActive(true);
+            toothPanel.SetActive(toothSelected);
         }
+        
+        
     }
 
     public void UseKey()
     {
-        if (!keySelected && !toothSelected)
-        {
-            keySelected = true;
-        }
+        keySelected = !keySelected;       
+        toothSelected = false;
     }
 
     public void UseTooth()
     {
-        if (!toothSelected && !keySelected)
-        {
-            toothSelected = true;
-        }
+        toothSelected = !toothSelected;
+        keySelected = false;
     }
 }
